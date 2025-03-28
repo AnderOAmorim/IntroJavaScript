@@ -8,7 +8,7 @@ let somar =  function(valor1, valor2){
 somar(18,25);
 somar(72,37);
 somar(99,1);
-
+//Funcao com return
 let subtrair = function(valor1,valor2){
     return valor1-valor2;
 }
